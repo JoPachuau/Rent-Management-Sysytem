@@ -1,2 +1,2 @@
 # Rent-Management-Sysytem
-My first Creting renting system
+It include: Source code and SQL file
